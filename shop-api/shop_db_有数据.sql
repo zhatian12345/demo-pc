@@ -35,13 +35,13 @@ CREATE TABLE `address` (
 -- ----------------------------
 -- Records of address
 -- ----------------------------
-INSERT INTO `address` VALUES ('1', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '关羽', '13716052241', '', '安徽省合肥市瑶海区', '五方桥中公教育基地', '0', '学校');
-INSERT INTO `address` VALUES ('21', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '刘备', '13716052241', '', '山东省滨州市无棣县', '棣新一路圣豪购物广场', '0', '家');
-INSERT INTO `address` VALUES ('22', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '周瑜', '13716052241', '', '北京市市辖区朝阳区', '五方桥中公教育基地', '0', '公司');
-INSERT INTO `address` VALUES ('23', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '曹操', '13716052241', '', '北京市市辖区朝阳区', '五方桥中公教育基地', '1', '公司');
-INSERT INTO `address` VALUES ('33', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '鲁班', '13788995678', '', '黑龙江省哈尔滨市道里区', '王者峡谷', '1', '学校');
-INSERT INTO `address` VALUES ('34', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '鲁班大师', '13716052241', '', '山东省滨州市无棣县', '棣新一路', '0', '公司');
-INSERT INTO `address` VALUES ('35', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '亚瑟', '13767782879', '', '山东省滨州市无棣县', '棣新一路', '1', '学校');
+INSERT INTO `address` VALUES ('1', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '关羽', '13716052241', '', '安徽省合肥市瑶海区', '安徽省合肥市瑶海区', '0', '学校');
+INSERT INTO `address` VALUES ('21', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '刘备', '13716052241', '', '山东省滨州市无棣县', '山东省滨州市无棣县', '0', '家');
+INSERT INTO `address` VALUES ('22', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '周瑜', '13716052241', '', '北京市市辖区朝阳区', '北京市市辖区朝阳区', '0', '公司');
+INSERT INTO `address` VALUES ('23', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '曹操', '13716052241', '', '北京市市辖区朝阳区', '北京市市辖区朝阳区', '1', '公司');
+INSERT INTO `address` VALUES ('33', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '鲁班', '13788995678', '', '黑龙江省哈尔滨市道里区', '黑龙江省哈尔滨市道里区', '1', '学校');
+INSERT INTO `address` VALUES ('34', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '鲁班大师', '13716052241', '', '山东省滨州市无棣县', '山东省滨州市无棣县', '0', '公司');
+INSERT INTO `address` VALUES ('35', '6e7dd8d0-f1b4-11ea-84da-07a5d6e2f2fe', '亚瑟', '13767782879', '', '山东省滨州市无棣县', '山东省滨州市无棣县', '1', '学校');
 
 -- ----------------------------
 -- Table structure for banner
